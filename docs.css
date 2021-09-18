@@ -1,0 +1,18 @@
+body {
+  min-height: 200vh;
+}
+
+.bg-primary {
+  background-color: #1C9451 !important;
+}
+
+
+
+header {
+  padding-top: 35px;
+}
+
+a {
+  cursor: pointer;
+  color:#1C9451;
+}
